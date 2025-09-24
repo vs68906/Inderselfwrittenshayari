@@ -54,7 +54,7 @@ Example:
 </div>
 
 <footer>
-  © <span id="yr"></span> INDER_SELF_WEITTER • Built with ❤️
+  © <span id="yr"></span> INDER_SELF_WRITTER • Built with ❤️
 </footer>
 
 <script>document.getElementById('yr').textContent=new Date().getFullYear()</script>
